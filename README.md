@@ -1,4 +1,4 @@
-#Images Mixer and Viewer
+# Images Mixer and Viewer
 
 ## Team Members:
 - Sondos Mahmoud
